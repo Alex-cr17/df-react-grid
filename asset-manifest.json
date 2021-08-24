@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/df-react-grid/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/df-react-grid/static/js/main.0aed1e47.chunk.js",
+    "main.js.map": "/df-react-grid/static/js/main.0aed1e47.chunk.js.map",
+    "runtime-main.js": "/df-react-grid/static/js/runtime-main.6c09b0e0.js",
+    "runtime-main.js.map": "/df-react-grid/static/js/runtime-main.6c09b0e0.js.map",
+    "static/js/2.3e88827b.chunk.js": "/df-react-grid/static/js/2.3e88827b.chunk.js",
+    "static/js/2.3e88827b.chunk.js.map": "/df-react-grid/static/js/2.3e88827b.chunk.js.map",
+    "static/js/3.a42bcca0.chunk.js": "/df-react-grid/static/js/3.a42bcca0.chunk.js",
+    "static/js/3.a42bcca0.chunk.js.map": "/df-react-grid/static/js/3.a42bcca0.chunk.js.map",
+    "index.html": "/df-react-grid/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/df-react-grid/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3e88827b.chunk.js.LICENSE.txt": "/df-react-grid/static/js/2.3e88827b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/df-react-grid/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c09b0e0.js",
+    "static/js/2.3e88827b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0aed1e47.chunk.js"
+  ]
+}
